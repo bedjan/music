@@ -2,7 +2,7 @@
 
 sudo apt install python3-pip ffmpeg python3-full
 
-pip3 install pip pytube pydub yt-dlp --break-system-packages --upgrade
+pip3 install pip pytube pydub yt-dlp --upgrade --break-system-packages 
 
 
 [Ffmpeg](https://www.ffmpeg.org/download.html)
