@@ -15,9 +15,9 @@ V terminalu na windows i linux:
 
 # Skripty
 
-1) download_songs.py  - skript stahne a prevede z youtube, prohledava jiz vytvorene mp3 
+1) staci spustit ```python download_songs.py``` - skript stahne a prevede z youtube, prohledava jiz vytvorene mp3 
 
-2) songs.txt - jediny soubor na editaci,  s URL pisnicek i s playlistu, kazdy odkaz vzdy v novem radku
+2) pridavat URL z youtube do ```songs.txt``` - jediny soubor na editaci,  s URL pisnicek i s playlistu, kazdy odkaz vzdy v novem radku
 
 *napr.*
 
@@ -27,5 +27,5 @@ V terminalu na windows i linux:
 > 
 
 
- adresar downloaded_songs - automaticky vytvoreny adresar se stazenymi mp3, vytvoreny vzdy tam kde se spousti python skript
+3) adresar downloaded_songs - automaticky vytvoreny adresar se stazenymi mp3, vytvoreny vzdy tam kde se spousti python skript
 
