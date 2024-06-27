@@ -1,16 +1,17 @@
 # Stahovani z Youtube
 
-> Tento skript by měl správně vyhledávat názvy písní, stahovat a konvertovat videa a playlisty do samostatných MP3 souborů pomocí yt-dlp, přeskakovat blokovaná videa a
-> pokračovat ve stahování dalších. Ujistěte se, že máte nainstalovaný ffmpeg, který yt-dlp používá pro konverzi videí.
+> Tento skript umi stahovat a konvertovat videa a playlisty do samostatných MP3 souborů pomocí yt-dlp, přeskakovat blokovaná videa a
+> pokračovat ve stahování dalších. Ujistěte se, že máte nainstalovaný [Ffmpeg](https://www.ffmpeg.org/download.html), [Python](https://www.python.org/downloads/) a yt-dlp používá pro konverzi videí.
 
-sudo apt install python3-pip ffmpeg python3-full
+Na linuxu: 
 
-pip3 install pip pytube pydub yt-dlp --upgrade --break-system-packages 
+> sudo apt install python3-pip ffmpeg python3-full
+>
 
+V terminalu na windows i linux:
 
-[Ffmpeg](https://www.ffmpeg.org/download.html)
-
-[Python](https://www.python.org/downloads/)
+> pip3 install pip pytube pydub yt-dlp --upgrade --break-system-packages 
+>
 
 # Skripty
 
