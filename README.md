@@ -18,5 +18,10 @@ download_songs.py  - skript stahne a prevede z youtube, prohledava jiz vytvorene
 
 songs.txt - soubor s nazvy pisnicek
 
-downloaded_songs - slozka se stazenymi mp3
+> Unique II - Break My Stride
+> https://www.youtube.com/watch?v=nZXRV4MezEw&list=PLmXxqSJJq-yUvMWKuZQAB_8yxnjZaOZUp
+>
+> 
+
+adresar downloaded_songs - automaticky vytvoreny adresar se stazenymi mp3, vytvoreny vzdy tam kde se spousti python skript
 
