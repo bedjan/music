@@ -14,14 +14,17 @@ pip3 install pip pytube pydub yt-dlp --upgrade --break-system-packages
 
 # Skripty
 
-download_songs.py  - skript stahne a prevede z youtube, prohledava jiz vytvorene mp3 
+1) download_songs.py  - skript stahne a prevede z youtube, prohledava jiz vytvorene mp3 
 
-songs.txt - soubor s nazvy pisnicek
+2) songs.txt - jediny soubor na editaci,  s nazvy pisnicek a URL i s playlisty vzdy v novem radku
+
+*napr.*
 
 > Unique II - Break My Stride
+> 
 > https://www.youtube.com/watch?v=nZXRV4MezEw&list=PLmXxqSJJq-yUvMWKuZQAB_8yxnjZaOZUp
 >
-> 
 
-adresar downloaded_songs - automaticky vytvoreny adresar se stazenymi mp3, vytvoreny vzdy tam kde se spousti python skript
+
+ adresar downloaded_songs - automaticky vytvoreny adresar se stazenymi mp3, vytvoreny vzdy tam kde se spousti python skript
 
