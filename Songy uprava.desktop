@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Songy uprava
+Comment=
+Exec=featherpad /home/d/Plocha/songs.txt
+Icon=music-note-16th
+Path=
+Terminal=false
+StartupNotify=false
