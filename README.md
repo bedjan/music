@@ -1,4 +1,4 @@
-# Stahovani z Youtube
+# Stahovani videi z Youtube a prevod do mp3
 
 > Tento skript umi stahovat a konvertovat videa a playlisty do samostatných MP3 souborů pomocí yt-dlp, přeskakovat blokovaná videa a
 > pokračovat ve stahování dalších.
