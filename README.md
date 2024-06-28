@@ -13,7 +13,11 @@
 
 ## Na windows:
 
-Ujistěte se, že máte nainstalovaný [Ffmpeg binaries](https://ffbinaries.com/downloadsú, [Ffmpeg](https://www.ffmpeg.org/download.html), [Python](https://www.python.org/downloads/) a yt-dlp používá pro konverzi videí.
+[Návod ffmpeg](https://www.redswitches.com/blog/install-ffmpeg-on-windows/)
+
+[Environment variables](https://www.computerhope.com/issues/ch000549.htm)
+
+Ujistěte se, že máte nainstalovaný [Ffmpeg binaries](https://ffbinaries.com/downloads), [Ffmpeg](https://www.ffmpeg.org/download.html), [Python](https://www.python.org/downloads/) a yt-dlp používá pro konverzi videí.
 
 ## Na linuxu: 
 
