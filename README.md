@@ -14,7 +14,7 @@ Ujistěte se, že máte nainstalovaný [Ffmpeg](https://www.ffmpeg.org/download.
 
 ## Po instalaci dle OS uz je doinstalujeme v terminalu na windows i linux:
 
-> ``` pip3 install pip pytube pydub yt-dlp --upgrade --break-system-packages ```
+> ``` pip3 install pip pytube pydub yt-dlp ffmpeg ffprobe --upgrade --break-system-packages ```
 >
 
 ## Skripty
