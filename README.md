@@ -13,8 +13,9 @@
 
 ## Na windows:
 
-do C:\Windows\System32 nakopirovat po rozbaleni z webu [Ffmpeg binaries](https://ffbinaries.com/downloads) ffmpeg.exe, ffprobe.exe
-
+>> ``` do C:\Windows\System32 nakopirovat po rozbaleni z webu [Ffmpeg binaries](https://ffbinaries.com/downloads) ffmpeg.exe, ffprobe.exe ```
+>>
+> 
 ## Pokud nepujde tak
 
 [Návod ffmpeg](https://www.redswitches.com/blog/install-ffmpeg-on-windows/)
